@@ -1,0 +1,170 @@
+%PDF-1.4
+1 0 obj
+<</Type /Catalog /Pages 2 0 R>>
+endobj
+2 0 obj
+<</Type /Pages /Kids [3 0 R] /Count 1>>
+endobj
+3 0 obj
+<</Type /Page /Parent 2 0 R /Resources 4 0 R /MediaBox [0 0 612 792] /Contents 6 0 R>>
+endobj
+4 0 obj
+<</Font <</F1 5 0 R /F2 7 0 R /F3 8 0 R>>>>
+endobj
+5 0 obj
+<</Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold>>
+endobj
+7 0 obj
+<</Type /Font /Subtype /Type1 /BaseFont /Helvetica>>
+endobj
+8 0 obj
+<</Type /Font /Subtype /Type1 /BaseFont /Helvetica-Oblique>>
+endobj
+6 0 obj
+<</Length 1200>>
+stream
+BT
+/F1 20 Tf
+180 750 Td
+(INSURANCE MEDICAL CERTIFICATE) Tj
+ET
+
+BT
+/F1 12 Tf
+50 700 Td
+(PATIENT INFORMATION) Tj
+ET
+
+BT
+/F2 10 Tf
+50 680 Td
+(Name: John Doe) Tj
+0 -15 Td
+(Date of Birth: 05/15/1980) Tj
+0 -15 Td
+(Patient ID: P-1001) Tj
+0 -15 Td
+(Gender: Male) Tj
+0 -15 Td
+(Address: 123 Main Street, Anytown, CA 12345) Tj
+ET
+
+BT
+/F1 12 Tf
+50 590 Td
+(CERTIFICATE DETAILS) Tj
+ET
+
+BT
+/F2 10 Tf
+50 570 Td
+(Certificate Number: IMC-2023-8901) Tj
+0 -15 Td
+(Date of Issue: March 25, 2023) Tj
+0 -15 Td
+(Valid Until: March 25, 2024) Tj
+0 -15 Td
+(Insurance Provider: HealthPlus Insurance) Tj
+0 -15 Td
+(Policy Number: HP-987654321) Tj
+ET
+
+BT
+/F1 12 Tf
+50 480 Td
+(MEDICAL ASSESSMENT) Tj
+ET
+
+BT
+/F2 10 Tf
+50 460 Td
+(This is to certify that I have examined the above-named individual on March 25, 2023) Tj
+0 -15 Td
+(and found the following medical conditions:) Tj
+0 -25 Td
+(1. Hypertension - Well-controlled on current medication) Tj
+0 -15 Td
+(2. Type 2 Diabetes Mellitus - Well-controlled, HbA1c 6.8%) Tj
+0 -15 Td
+(3. Hyperlipidemia - Controlled with medication) Tj
+ET
+
+BT
+/F1 12 Tf
+50 360 Td
+(RISK ASSESSMENT) Tj
+ET
+
+BT
+/F2 10 Tf
+50 340 Td
+(Based on the current medical examination and history:) Tj
+0 -25 Td
+(Cardiovascular Risk: Moderate) Tj
+0 -15 Td
+(Life Expectancy: Normal for age) Tj
+0 -15 Td
+(Disability Risk: Low) Tj
+0 -15 Td
+(Overall Health Status: Good, with well-managed chronic conditions) Tj
+ET
+
+BT
+/F1 12 Tf
+50 240 Td
+(CERTIFICATION) Tj
+ET
+
+BT
+/F2 10 Tf
+50 220 Td
+(This certificate is issued at the request of the patient for insurance purposes.) Tj
+0 -15 Td
+(The information contained herein is accurate to the best of my knowledge and) Tj
+0 -15 Td
+(based on examination findings and medical records available to me.) Tj
+ET
+
+BT
+/F1 12 Tf
+50 160 Td
+(PHYSICIAN INFORMATION) Tj
+ET
+
+BT
+/F2 10 Tf
+50 140 Td
+(Name: Dr. Sarah Johnson, MD) Tj
+0 -15 Td
+(License Number: MD12345) Tj
+0 -15 Td
+(Medical Center: Cityview Medical Center) Tj
+0 -15 Td
+(Contact: $555$ 123-4567) Tj
+ET
+
+BT
+/F3 10 Tf
+400 60 Td
+(Electronically signed by: Dr. Sarah Johnson) Tj
+0 -15 Td
+(Date: March 25, 2023) Tj
+ET
+endstream
+endobj
+xref
+0 9
+0000000000 65535 f
+0000000009 00000 n
+0000000056 00000 n
+0000000111 00000 n
+0000000212 00000 n
+0000000267 00000 n
+0000000335 00000 n
+0000000401 00000 n
+0000000467 00000 n
+trailer
+<</Size 9/Root 1 0 R>>
+startxref
+1653
+%%EOF

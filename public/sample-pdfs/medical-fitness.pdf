@@ -1,0 +1,178 @@
+%PDF-1.4
+1 0 obj
+<</Type /Catalog /Pages 2 0 R>>
+endobj
+2 0 obj
+<</Type /Pages /Kids [3 0 R] /Count 1>>
+endobj
+3 0 obj
+<</Type /Page /Parent 2 0 R /Resources 4 0 R /MediaBox [0 0 612 792] /Contents 6 0 R>>
+endobj
+4 0 obj
+<</Font <</F1 5 0 R /F2 7 0 R /F3 8 0 R>>>>
+endobj
+5 0 obj
+<</Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold>>
+endobj
+7 0 obj
+<</Type /Font /Subtype /Type1 /BaseFont /Helvetica>>
+endobj
+8 0 obj
+<</Type /Font /Subtype /Type1 /BaseFont /Helvetica-Oblique>>
+endobj
+6 0 obj
+<</Length 1200>>
+stream
+BT
+/F1 20 Tf
+180 750 Td
+(MEDICAL FITNESS CERTIFICATE) Tj
+ET
+
+BT
+/F1 12 Tf
+50 700 Td
+(PATIENT INFORMATION) Tj
+ET
+
+BT
+/F2 10 Tf
+50 680 Td
+(Name: John Doe) Tj
+0 -15 Td
+(Date of Birth: 05/15/1980) Tj
+0 -15 Td
+(Patient ID: P-1001) Tj
+0 -15 Td
+(Gender: Male) Tj
+0 -15 Td
+(Address: 123 Main Street, Anytown, CA 12345) Tj
+ET
+
+BT
+/F1 12 Tf
+50 590 Td
+(CERTIFICATE DETAILS) Tj
+ET
+
+BT
+/F2 10 Tf
+50 570 Td
+(Certificate Number: MFC-2023-1045) Tj
+0 -15 Td
+(Date of Examination: March 10, 2023) Tj
+0 -15 Td
+(Valid Until: March 10, 2024) Tj
+ET
+
+BT
+/F1 12 Tf
+50 510 Td
+(EXAMINATION FINDINGS) Tj
+ET
+
+BT
+/F2 10 Tf
+50 490 Td
+(Height: 5'10" $178 cm$) Tj
+0 -15 Td
+(Weight: 180 lbs $81.6 kg$) Tj
+0 -15 Td
+(BMI: 25.8) Tj
+0 -15 Td
+(Blood Pressure: 130/85 mmHg) Tj
+0 -15 Td
+(Pulse Rate: 72 bpm) Tj
+0 -15 Td
+(Vision: 20/20 $both eyes$) Tj
+0 -15 Td
+(Hearing: Within normal limits) Tj
+0 -15 Td
+(Cardiovascular System: Normal) Tj
+0 -15 Td
+(Respiratory System: Normal) Tj
+0 -15 Td
+(Nervous System: Normal) Tj
+0 -15 Td
+(Musculoskeletal System: Normal) Tj
+ET
+
+BT
+/F1 12 Tf
+50 300 Td
+(CERTIFICATION) Tj
+ET
+
+BT
+/F2 10 Tf
+50 280 Td
+(This is to certify that I have examined the above-named individual and found him to be) Tj
+0 -15 Td
+(physically and mentally FIT for:) Tj
+0 -25 Td
+([ X ] General physical activities) Tj
+0 -15 Td
+([ X ] Employment) Tj
+0 -15 Td
+([ X ] Moderate exercise program) Tj
+0 -15 Td
+([ X ] Travel) Tj
+ET
+
+BT
+/F1 12 Tf
+50 170 Td
+(REMARKS) Tj
+ET
+
+BT
+/F2 10 Tf
+50 150 Td
+(The patient has controlled hypertension and type 2 diabetes, both well-managed with) Tj
+0 -15 Td
+(current medication. No contraindications for normal daily activities or moderate exercise.) Tj
+0 -15 Td
+(Recommended to continue regular follow-up appointments for chronic conditions.) Tj
+ET
+
+BT
+/F1 12 Tf
+50 90 Td
+(PHYSICIAN INFORMATION) Tj
+ET
+
+BT
+/F2 10 Tf
+50 70 Td
+(Name: Dr. Sarah Johnson, MD) Tj
+0 -15 Td
+(License Number: MD12345) Tj
+0 -15 Td
+(Medical Center: Cityview Medical Center) Tj
+ET
+
+BT
+/F3 10 Tf
+400 30 Td
+(Electronically signed by: Dr. Sarah Johnson) Tj
+0 -15 Td
+(Date: March 10, 2023) Tj
+ET
+endstream
+endobj
+xref
+0 9
+0000000000 65535 f
+0000000009 00000 n
+0000000056 00000 n
+0000000111 00000 n
+0000000212 00000 n
+0000000267 00000 n
+0000000335 00000 n
+0000000401 00000 n
+0000000467 00000 n
+trailer
+<</Size 9/Root 1 0 R>>
+startxref
+1653
+%%EOF

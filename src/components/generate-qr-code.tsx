@@ -53,24 +53,15 @@ export default function GenerateQRCode({ type, id, name }: GenerateQRCodeProps) 
   return (
     <Card>
       <CardHeader>
-        <CardTitle>{type === "patient" ? "Patient QR Code" : "Prescription QR Code"}</CardTitle>
+        <CardTitle>{ "Patient QR Code"}</CardTitle>
         <CardDescription>
-          Scan this code to quickly access {type === "patient" ? "patient information" : "prescription details"}
+          Scan this code to quickly access { "patient information" }
         </CardDescription>
       </CardHeader>
       <CardContent className="flex justify-center">
         <QRCodeSVG id="qr-code-canvas" value={qrData} size={200} level="H" includeMargin={true} />
       </CardContent>
-      <CardFooter className="flex justify-between">
-        <Button variant="outline" onClick={handleDownload}>
-          <Download className="mr-2 h-4 w-4" />
-          Download
-        </Button>
-        <Button variant="outline" onClick={handlePrint}>
-          <Printer className="mr-2 h-4 w-4" />
-          Print
-        </Button>
-      </CardFooter>
+    
     </Card>
   )
 }

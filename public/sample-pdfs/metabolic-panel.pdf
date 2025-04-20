@@ -1,0 +1,224 @@
+%PDF-1.4
+1 0 obj
+<</Type /Catalog /Pages 2 0 R>>
+endobj
+2 0 obj
+<</Type /Pages /Kids [3 0 R] /Count 1>>
+endobj
+3 0 obj
+<</Type /Page /Parent 2 0 R /Resources 4 0 R /MediaBox [0 0 612 792] /Contents 6 0 R>>
+endobj
+4 0 obj
+<</Font <</F1 5 0 R /F2 7 0 R /F3 8 0 R>>>>
+endobj
+5 0 obj
+<</Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold>>
+endobj
+7 0 obj
+<</Type /Font /Subtype /Type1 /BaseFont /Helvetica>>
+endobj
+8 0 obj
+<</Type /Font /Subtype /Type1 /BaseFont /Helvetica-Oblique>>
+endobj
+6 0 obj
+<</Length 1600>>
+stream
+BT
+/F1 18 Tf
+50 750 Td
+(LABORATORY REPORT: COMPREHENSIVE METABOLIC PANEL) Tj
+ET
+
+BT
+/F1 12 Tf
+50 720 Td
+(PATIENT INFORMATION) Tj
+ET
+
+BT
+/F2 10 Tf
+50 700 Td
+(Name: John Doe) Tj
+0 -15 Td
+(Date of Birth: 05/15/1980) Tj
+0 -15 Td
+(Patient ID: P-1001) Tj
+0 -15 Td
+(Collection Date: January 15, 2023) Tj
+0 -15 Td
+(Report Date: January 17, 2023) Tj
+0 -15 Td
+(Ordering Physician: Dr. Michael Chen) Tj
+ET
+
+BT
+/F1 12 Tf
+50 610 Td
+(COMPREHENSIVE METABOLIC PANEL RESULTS) Tj
+ET
+
+BT
+/F2 10 Tf
+50 590 Td
+(Test) Tj
+200 0 Td
+(Result) Tj
+300 0 Td
+(Reference Range) Tj
+-500 -15 Td
+(Glucose) Tj
+200 0 Td
+(110 mg/dL) Tj
+300 0 Td
+(70-99 mg/dL) Tj
+-500 -15 Td
+(BUN) Tj
+200 0 Td
+(15 mg/dL) Tj
+300 0 Td
+(7-20 mg/dL) Tj
+-500 -15 Td
+(Creatinine) Tj
+200 0 Td
+(0.9 mg/dL) Tj
+300 0 Td
+(0.6-1.2 mg/dL) Tj
+-500 -15 Td
+(eGFR) Tj
+200 0 Td
+(>60 mL/min/1.73m²) Tj
+300 0 Td
+(>60 mL/min/1.73m²) Tj
+-500 -15 Td
+(Sodium) Tj
+200 0 Td
+(140 mEq/L) Tj
+300 0 Td
+(136-145 mEq/L) Tj
+-500 -15 Td
+(Potassium) Tj
+200 0 Td
+(4.0 mEq/L) Tj
+300 0 Td
+(3.5-5.1 mEq/L) Tj
+-500 -15 Td
+(Chloride) Tj
+200 0 Td
+(102 mEq/L) Tj
+300 0 Td
+(98-107 mEq/L) Tj
+-500 -15 Td
+(CO2) Tj
+200 0 Td
+(24 mEq/L) Tj
+300 0 Td
+(21-32 mEq/L) Tj
+-500 -15 Td
+(Calcium) Tj
+200 0 Td
+(9.5 mg/dL) Tj
+300 0 Td
+(8.5-10.5 mg/dL) Tj
+-500 -15 Td
+(Protein, Total) Tj
+200 0 Td
+(7.0 g/dL) Tj
+300 0 Td
+(6.0-8.3 g/dL) Tj
+-500 -15 Td
+(Albumin) Tj
+200 0 Td
+(4.2 g/dL) Tj
+300 0 Td
+(3.5-5.0 g/dL) Tj
+-500 -15 Td
+(Globulin) Tj
+200 0 Td
+(2.8 g/dL) Tj
+300 0 Td
+(2.0-3.5 g/dL) Tj
+-500 -15 Td
+(A/G Ratio) Tj
+200 0 Td
+(1.5) Tj
+300 0 Td
+(1.0-2.2) Tj
+-500 -15 Td
+(Bilirubin, Total) Tj
+200 0 Td
+(0.8 mg/dL) Tj
+300 0 Td
+(0.1-1.2 mg/dL) Tj
+-500 -15 Td
+(Alkaline Phosphatase) Tj
+200 0 Td
+(75 U/L) Tj
+300 0 Td
+(40-129 U/L) Tj
+-500 -15 Td
+(AST) Tj
+200 0 Td
+(25 U/L) Tj
+300 0 Td
+(0-40 U/L) Tj
+-500 -15 Td
+(ALT) Tj
+200 0 Td
+(30 U/L) Tj
+300 0 Td
+(0-44 U/L) Tj
+ET
+
+BT
+/F1 12 Tf
+50 220 Td
+(COMMENTS) Tj
+ET
+
+BT
+/F2 10 Tf
+50 200 Td
+(- Glucose is slightly elevated above reference range, consistent with patient's history of) Tj
+0 -15 Td
+(  diabetes mellitus type 2.) Tj
+0 -15 Td
+(- All other values are within normal limits.) Tj
+0 -15 Td
+(- Renal function is normal as indicated by normal creatinine and eGFR.) Tj
+0 -15 Td
+(- Liver function tests are normal.) Tj
+ET
+
+BT
+/F3 10 Tf
+50 120 Td
+(This laboratory report is confidential and intended only for the addressee.) Tj
+ET
+
+BT
+/F2 10 Tf
+50 80 Td
+(Laboratory Director: James Wilson, MD, PhD) Tj
+0 -15 Td
+(Reviewed by: Dr. Michael Chen) Tj
+0 -15 Td
+(Central Medical Laboratory, CLIA #: 12D3456789) Tj
+ET
+endstream
+endobj
+xref
+0 9
+0000000000 65535 f
+0000000009 00000 n
+0000000056 00000 n
+0000000111 00000 n
+0000000212 00000 n
+0000000267 00000 n
+0000000401 00000 n
+0000000335 00000 n
+0000000401 00000 n
+trailer
+<</Size 9/Root 1 0 R>>
+startxref
+2053
+%%EOF

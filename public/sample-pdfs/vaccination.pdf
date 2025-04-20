@@ -1,0 +1,162 @@
+%PDF-1.4
+1 0 obj
+<</Type /Catalog /Pages 2 0 R>>
+endobj
+2 0 obj
+<</Type /Pages /Kids [3 0 R] /Count 1>>
+endobj
+3 0 obj
+<</Type /Page /Parent 2 0 R /Resources 4 0 R /MediaBox [0 0 612 792] /Contents 6 0 R>>
+endobj
+4 0 obj
+<</Font <</F1 5 0 R /F2 7 0 R /F3 8 0 R>>>>
+endobj
+5 0 obj
+<</Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold>>
+endobj
+7 0 obj
+<</Type /Font /Subtype /Type1 /BaseFont /Helvetica>>
+endobj
+8 0 obj
+<</Type /Font /Subtype /Type1 /BaseFont /Helvetica-Oblique>>
+endobj
+6 0 obj
+<</Length 1300>>
+stream
+BT
+/F1 20 Tf
+180 750 Td
+(COVID-19 VACCINATION CERTIFICATE) Tj
+ET
+
+BT
+/F1 12 Tf
+50 700 Td
+(PATIENT INFORMATION) Tj
+ET
+
+BT
+/F2 10 Tf
+50 680 Td
+(Name: John Doe) Tj
+0 -15 Td
+(Date of Birth: 05/15/1980) Tj
+0 -15 Td
+(Patient ID: P-1001) Tj
+0 -15 Td
+(Gender: Male) Tj
+0 -15 Td
+(Address: 123 Main Street, Anytown, CA 12345) Tj
+ET
+
+BT
+/F1 12 Tf
+50 590 Td
+(VACCINATION DETAILS) Tj
+ET
+
+BT
+/F2 10 Tf
+50 570 Td
+(Certificate Number: VAX-2023-5678) Tj
+0 -15 Td
+(Vaccination Status: FULLY VACCINATED) Tj
+ET
+
+BT
+/F1 12 Tf
+50 520 Td
+(DOSE INFORMATION) Tj
+ET
+
+BT
+/F2 10 Tf
+50 500 Td
+(Dose 1:) Tj
+0 -15 Td
+(Date: May 15, 2021) Tj
+0 -15 Td
+(Vaccine Product: Pfizer-BioNTech COVID-19 Vaccine) Tj
+0 -15 Td
+(Lot Number: EW0182) Tj
+0 -15 Td
+(Administered at: Cityview Medical Center) Tj
+0 -25 Td
+(Dose 2:) Tj
+0 -15 Td
+(Date: June 5, 2021) Tj
+0 -15 Td
+(Vaccine Product: Pfizer-BioNTech COVID-19 Vaccine) Tj
+0 -15 Td
+(Lot Number: EW0207) Tj
+0 -15 Td
+(Administered at: Cityview Medical Center) Tj
+0 -25 Td
+(Booster:) Tj
+0 -15 Td
+(Date: January 15, 2023) Tj
+0 -15 Td
+(Vaccine Product: Pfizer-BioNTech COVID-19 Vaccine $Bivalent$) Tj
+0 -15 Td
+(Lot Number: FG3421) Tj
+0 -15 Td
+(Administered at: Cityview Medical Center) Tj
+ET
+
+BT
+/F1 12 Tf
+50 190 Td
+(CERTIFICATION) Tj
+ET
+
+BT
+/F2 10 Tf
+50 170 Td
+(This is to certify that the above-named individual has received COVID-19 vaccination) Tj
+0 -15 Td
+(as documented above. This certificate is issued in accordance with the guidelines of) Tj
+0 -15 Td
+(the Department of Health and the Centers for Disease Control and Prevention.) Tj
+ET
+
+BT
+/F1 12 Tf
+50 110 Td
+(HEALTHCARE PROVIDER INFORMATION) Tj
+ET
+
+BT
+/F2 10 Tf
+50 90 Td
+(Name: Dr. Michael Chen, MD) Tj
+0 -15 Td
+(License Number: MD54321) Tj
+0 -15 Td
+(Medical Center: Cityview Medical Center) Tj
+ET
+
+BT
+/F3 10 Tf
+400 30 Td
+(Electronically signed by: Dr. Michael Chen) Tj
+0 -15 Td
+(Date: January 15, 2023) Tj
+ET
+endstream
+endobj
+xref
+0 9
+0000000000 65535 f
+0000000009 00000 n
+0000000056 00000 n
+0000000111 00000 n
+0000000212 00000 n
+0000000267 00000 n
+0000000335 00000 n
+0000000401 00000 n
+0000000467 00000 n
+trailer
+<</Size 9/Root 1 0 R>>
+startxref
+1753
+%%EOF

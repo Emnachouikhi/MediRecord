@@ -1,8 +1,10 @@
+"use client"
+
 import type { ReactNode } from "react"
 import Link from "next/link"
 import { Button } from "@/components/ui/button"
 import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar"
-import { FileText, User, Users, Settings, LogOut, Bell, Menu } from "lucide-react"
+import { FileText, User, Users, LogOut, Bell, Menu, Calendar, Pill, QrCode, FileCheck } from "lucide-react"
 import {
   DropdownMenu,
   DropdownMenuContent,
@@ -13,13 +15,19 @@ import {
 } from "@/components/ui/dropdown-menu"
 import { Sheet, SheetContent, SheetTrigger } from "@/components/ui/sheet"
 
+// Import usePathname at the top of the file
+import { usePathname } from "next/navigation"
+
 interface DashboardLayoutProps {
   children: ReactNode
   role: "patient" | "doctor" | "clinician"
   userName?: string
 }
 
+// Update the DashboardLayout function to use usePathname
 export default function DashboardLayout({ children, role, userName = "User Name" }: DashboardLayoutProps) {
+  const pathname = usePathname()
+
   const getNavItems = () => {
     const baseItems = [
       {
@@ -32,17 +40,32 @@ export default function DashboardLayout({ children, role, userName = "User Name"
         href: `/dashboard/${role}/profile`,
         icon: <User className="h-5 w-5" />,
       },
-  
     ]
 
     if (role === "patient") {
       return [
         ...baseItems,
         {
+          name: "QR Code",
+          href: `/dashboard/${role}/qr-code`,
+          icon: <QrCode className="h-5 w-5" />,
+        },
+        {
           name: "Medical Records",
           href: `/dashboard/${role}/records`,
           icon: <FileText className="h-5 w-5" />,
         },
+        {
+          name: "Prescriptions",
+          href: `/dashboard/${role}/prescriptions`,
+          icon: <Pill className="h-5 w-5" />,
+        }, {
+          name: "Certificates",
+          href: `/dashboard/${role}/certificates`,
+          icon: <FileCheck className="h-5 w-5" />,
+        },
+       
+      
       ]
     }
 
@@ -79,6 +102,14 @@ export default function DashboardLayout({ children, role, userName = "User Name"
   const navItems = getNavItems()
   const roleTitle = role.charAt(0).toUpperCase() + role.slice(1)
 
+  // Function to check if a nav item is active
+  const isActive = (href: string) => {
+    if (href === `/dashboard/${role}`) {
+      return pathname === href
+    }
+    return pathname === href || pathname.startsWith(`${href}/`)
+  }
+  
   return (
     <div className="flex min-h-screen flex-col bg-blue-50">
       <header className="sticky top-0 z-50 bg-gradient-to-r from-blue-500 to-blue-200 shadow-lg rounded-b-xl  ">
@@ -93,7 +124,7 @@ export default function DashboardLayout({ children, role, userName = "User Name"
               </SheetTrigger>
               <SheetContent side="left" className="w-72">
                 <div className="flex items-center gap-2 pb-4 pt-2">
-                  <FileText className="h-6 w-6 text-blue-600" />
+               <img src="/logo1.svg" alt="Logo" className="h-10 w-10 animate-pulse" />
                   <span className="text-lg font-semibold">MediRecord</span>
                 </div>
                 <nav className="grid gap-2 py-4">
@@ -101,7 +132,11 @@ export default function DashboardLayout({ children, role, userName = "User Name"
                     <Link
                       key={index}
                       href={item.href}
-                      className="flex items-center gap-2 rounded-lg px-3 py-2 text-gray-500 transition-all hover:text-gray-900 hover:bg-gray-100"
+                      className={`flex items-center gap-2 rounded-lg px-3 py-2 transition-all ${
+                        isActive(item.href)
+                          ? "bg-blue-100 text-blue-700 font-medium"
+                          : "text-gray-500 hover:text-gray-900 hover:bg-gray-100"
+                      }`}
                     >
                       {item.icon}
                       <span>{item.name}</span>
@@ -118,8 +153,8 @@ export default function DashboardLayout({ children, role, userName = "User Name"
               </SheetContent>
             </Sheet>
             <Link href={`/dashboard/${role}`} className="flex items-center gap-2">
-            <img src="/logo1.svg" alt="Logo" className="h-10 w-10 animate-pulse" />
-            <span className="text-lg font-semibold hidden md:inline-block">MediRecord</span>
+              <img src="/logo1.svg" alt="Logo" className="h-10 w-10 animate-pulse" />
+              <span className="text-lg font-semibold hidden md:inline-block">MediRecord</span>
             </Link>
           </div>
           <div className="flex items-center gap-4">
@@ -176,7 +211,11 @@ export default function DashboardLayout({ children, role, userName = "User Name"
                 <Link
                   key={index}
                   href={item.href}
-                  className="flex items-center gap-3 rounded-lg px-3 py-2 text-gray-500 transition-all hover:text-gray-900 hover:bg-gray-100"
+                  className={`flex items-center gap-3 rounded-lg px-3 py-2 transition-all ${
+                    isActive(item.href)
+                      ? "bg-blue-100 text-blue-700 font-medium"
+                      : "text-gray-500 hover:text-gray-900 hover:bg-gray-100"
+                  }`}
                 >
                   {item.icon}
                   <span>{item.name}</span>

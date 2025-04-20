@@ -1,0 +1,172 @@
+%PDF-1.4
+1 0 obj
+<</Type /Catalog /Pages 2 0 R>>
+endobj
+2 0 obj
+<</Type /Pages /Kids [3 0 R] /Count 1>>
+endobj
+3 0 obj
+<</Type /Page /Parent 2 0 R /Resources 4 0 R /MediaBox [0 0 612 792] /Contents 6 0 R>>
+endobj
+4 0 obj
+<</Font <</F1 5 0 R /F2 7 0 R /F3 8 0 R>>>>
+endobj
+5 0 obj
+<</Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold>>
+endobj
+7 0 obj
+<</Type /Font /Subtype /Type1 /BaseFont /Helvetica>>
+endobj
+8 0 obj
+<</Type /Font /Subtype /Type1 /BaseFont /Helvetica-Oblique>>
+endobj
+6 0 obj
+<</Length 1500>>
+stream
+BT
+/F1 18 Tf
+50 750 Td
+(MEDICAL RECORD: GENERAL CHECK-UP REPORT) Tj
+ET
+
+BT
+/F1 12 Tf
+50 720 Td
+(PATIENT INFORMATION) Tj
+ET
+
+BT
+/F2 10 Tf
+50 700 Td
+(Name: John Doe) Tj
+0 -15 Td
+(Date of Birth: 05/15/1980) Tj
+0 -15 Td
+(Patient ID: P-1001) Tj
+0 -15 Td
+(Date of Examination: April 15, 2023) Tj
+0 -15 Td
+(Examining Physician: Dr. Sarah Johnson) Tj
+ET
+
+BT
+/F1 12 Tf
+50 620 Td
+(VITAL SIGNS) Tj
+ET
+
+BT
+/F2 10 Tf
+50 600 Td
+(Blood Pressure: 130/85 mmHg) Tj
+0 -15 Td
+(Heart Rate: 78 bpm) Tj
+0 -15 Td
+(Respiratory Rate: 16 breaths/min) Tj
+0 -15 Td
+(Temperature: 98.6°F $$37°C$$) Tj
+0 -15 Td
+(Weight: 180 lbs $$81.6 kg$$) Tj
+0 -15 Td
+(Height: 5'10" $$178 cm$$) Tj
+0 -15 Td
+(BMI: 25.8 $$Overweight$$) Tj
+ET
+
+BT
+/F1 12 Tf
+50 480 Td
+(PHYSICAL EXAMINATION) Tj
+ET
+
+BT
+/F2 10 Tf
+50 460 Td
+(General Appearance: Patient is well-groomed and in no apparent distress) Tj
+0 -15 Td
+(HEENT: Normocephalic, atraumatic. Pupils equal, round, and reactive to light.) Tj
+0 -15 Td
+(Cardiovascular: Regular rate and rhythm. No murmurs, gallops, or rubs.) Tj
+0 -15 Td
+(Respiratory: Clear to auscultation bilaterally. No wheezes or crackles.) Tj
+0 -15 Td
+(Abdomen: Soft, non-tender, non-distended. No hepatosplenomegaly.) Tj
+0 -15 Td
+(Extremities: No edema, cyanosis, or clubbing. Pulses 2+ throughout.) Tj
+0 -15 Td
+(Neurological: Alert and oriented x3. Cranial nerves II-XII intact.) Tj
+ET
+
+BT
+/F1 12 Tf
+50 340 Td
+(ASSESSMENT) Tj
+ET
+
+BT
+/F2 10 Tf
+50 320 Td
+(1. Hypertension - Well-controlled on current medication) Tj
+0 -15 Td
+(2. Type 2 Diabetes Mellitus - Stable, HbA1c within target range) Tj
+0 -15 Td
+(3. Hyperlipidemia - Improved since last visit) Tj
+0 -15 Td
+(4. Overweight - Discussed lifestyle modifications) Tj
+ET
+
+BT
+/F1 12 Tf
+50 250 Td
+(PLAN) Tj
+ET
+
+BT
+/F2 10 Tf
+50 230 Td
+(1. Continue current medications:) Tj
+0 -15 Td
+(   - Lisinopril 10mg daily) Tj
+0 -15 Td
+(   - Metformin 500mg twice daily) Tj
+0 -15 Td
+(   - Atorvastatin 20mg at bedtime) Tj
+0 -15 Td
+(2. Laboratory tests ordered: Complete blood count, comprehensive metabolic panel, lipid panel) Tj
+0 -15 Td
+(3. Follow-up appointment in 3 months) Tj
+0 -15 Td
+(4. Recommended dietary changes and moderate exercise program) Tj
+ET
+
+BT
+/F3 10 Tf
+50 120 Td
+(This document is part of the patient's medical record and is confidential.) Tj
+ET
+
+BT
+/F2 10 Tf
+50 80 Td
+(Electronically signed by: Dr. Sarah Johnson, MD) Tj
+0 -15 Td
+(Date: April 15, 2023) Tj
+ET
+endstream
+endobj
+xref
+0 9
+0000000000 65535 f
+0000000009 00000 n
+0000000056 00000 n
+0000000111 00000 n
+0000000212 00000 n
+0000000267 00000 n
+0000000335 00000 n
+0000000401 00000 n
+0000000469 00000 n
+trailer
+<</Size 9/Root 1 0 R>>
+startxref
+1953
+%%EOF

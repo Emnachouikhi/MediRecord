@@ -51,7 +51,7 @@ export default function Login() {
         <Card className="max-w-md mx-auto">
           <CardHeader className="space-y-1">
             <div className="flex items-center space-x-2">
-              <FileText className="h-6 w-6 text-blue-600" />
+            <img src="/logo1.svg" alt="Logo" className="h-10 w-10 animate-pulse" />
               <CardTitle className="text-2xl">Login</CardTitle>
             </div>
             <CardDescription>Enter your credentials to access your account</CardDescription>

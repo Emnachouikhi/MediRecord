@@ -28,29 +28,50 @@ export default function ClinicianDashboard() {
   return (
     <DashboardLayout role="clinician" userName="Lab Technician">
       <div className="flex flex-col gap-6">
-        <div className="flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
-          <div>
-            <h1 className="text-2xl font-bold tracking-tight">Laboratory Dashboard</h1>
-            <p className="text-muted-foreground">
-              Welcome back. Here's an overview of your test results and pending tasks.
-            </p>
-          </div>
-          <div className="flex gap-2">
-            <Button variant="outline" onClick={() => setQrScannerOpen(true)}>
-              <QrCode className="mr-2 h-4 w-4" />
-              Scan QR Code
-            </Button>
-            <Button variant="outline" onClick={() => setSearchModalOpen(true)}>
-              <UserSearch className="mr-2 h-4 w-4" />
-              Find Patient
-            </Button>
-            <Button>
-              <Upload className="mr-2 h-4 w-4" />
-              Upload Results
-            </Button>
+      
+ {/* header section */}
+ <div className="bg-gradient-to-r from-blue-400 to-blue-100 rounded-2xl p-6 md:p-10 shadow-md mb-6">
+          <div className="flex flex-col md:flex-row justify-between items-center gap-6">
+            {/* Left section: Text */}
+            <div className="flex-1">
+              <h1 className="text-3xl font-bold text-blue-900"> Welcome back,</h1>
+              <p className="text-blue-800 text-sm mt-2"> Welcome back. Here's an overview of your test results.</p>
+              <div className="flex flex-wrap gap-3 mt-4">
+                {/* Scan QR */}
+                <Button
+                  variant="secondary"
+                  className="px-5 py-2 text-sm font-medium text-blue-700 border border-blue-300 bg-white hover:bg-blue-50 hover:shadow-md transition-all duration-200"
+                  onClick={() => setQrScannerOpen(true)}
+                >
+                  <QrCode className="mr-2 h-5 w-5" />
+                  Scan QR Code
+                </Button>
+
+                {/* Find Patient */}
+                <Button
+                  variant="secondary"
+                  className="px-5 py-2 text-sm font-medium text-blue-700 border border-blue-300 bg-white hover:bg-blue-50 hover:shadow-md transition-all duration-200"
+                  onClick={() => setSearchModalOpen(true)}
+                >
+                  <UserSearch className="mr-2 h-5 w-5" />
+                  Find Patient
+                </Button>
+
+            
+              </div>
+
+            </div>
+
+            {/* Right section: Illustration */}
+            <div className="w-full md:w-1/3">
+              <img
+                src="/doctor.svg"
+                alt="Patient Illustration"
+                className="w-80 h-80"
+              />
+            </div>
           </div>
         </div>
-
         {/* Rest of the component remains the same */}
         <div className="grid gap-4 md:grid-cols-2 lg:grid-cols-4">
           <Card>
@@ -95,12 +116,7 @@ export default function ClinicianDashboard() {
           </Card>
         </div>
 
-        <div className="relative">
-          <div className="relative mb-4">
-            <Search className="absolute left-2.5 top-2.5 h-4 w-4 text-muted-foreground" />
-            <Input type="search" placeholder="Search patients or test IDs..." className="w-full pl-8 bg-white" />
-          </div>
-        </div>
+      
 
         <Tabs defaultValue="pending" className="space-y-4">
           {/* Tab content remains the same */}
@@ -143,7 +159,7 @@ export default function ClinicianDashboard() {
                   </div>
                 ))}
                 <div className="text-center">
-                  <Link href="/dashboard/clinician/pending">
+                  <Link href="/dashboard/clinician/results">
                     <Button variant="link">View All Pending Tests</Button>
                   </Link>
                 </div>
@@ -184,7 +200,7 @@ export default function ClinicianDashboard() {
                   </div>
                 ))}
                 <div className="text-center">
-                  <Link href="/dashboard/clinician/completed">
+                  <Link href="/dashboard/clinician/results">
                     <Button variant="link">View All Completed Tests</Button>
                   </Link>
                 </div>
@@ -221,7 +237,7 @@ export default function ClinicianDashboard() {
                   </div>
                 ))}
                 <div className="text-center">
-                  <Link href="/dashboard/clinician/scheduled">
+                  <Link href="/dashboard/clinician/results">
                     <Button variant="link">View All Scheduled Tests</Button>
                   </Link>
                 </div>

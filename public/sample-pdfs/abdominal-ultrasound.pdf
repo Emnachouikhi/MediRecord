@@ -1,0 +1,186 @@
+%PDF-1.4
+1 0 obj
+<</Type /Catalog /Pages 2 0 R>>
+endobj
+2 0 obj
+<</Type /Pages /Kids [3 0 R] /Count 1>>
+endobj
+3 0 obj
+<</Type /Page /Parent 2 0 R /Resources 4 0 R /MediaBox [0 0 612 792] /Contents 6 0 R>>
+endobj
+4 0 obj
+<</Font <</F1 5 0 R /F2 7 0 R /F3 8 0 R>>>>
+endobj
+5 0 obj
+<</Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold>>
+endobj
+7 0 obj
+<</Type /Font /Subtype /Type1 /BaseFont /Helvetica>>
+endobj
+8 0 obj
+<</Type /Font /Subtype /Type1 /BaseFont /Helvetica-Oblique>>
+endobj
+6 0 obj
+<</Length 1500>>
+stream
+BT
+/F1 18 Tf
+50 750 Td
+(RADIOLOGY REPORT: ABDOMINAL ULTRASOUND) Tj
+ET
+
+BT
+/F1 12 Tf
+50 720 Td
+(PATIENT INFORMATION) Tj
+ET
+
+BT
+/F2 10 Tf
+50 700 Td
+(Name: John Doe) Tj
+0 -15 Td
+(Date of Birth: 05/15/1980) Tj
+0 -15 Td
+(Patient ID: P-1001) Tj
+0 -15 Td
+(Exam Date: December 10, 2022) Tj
+0 -15 Td
+(Report Date: December 12, 2022) Tj
+0 -15 Td
+(Ordering Physician: Dr. Emily Rodriguez) Tj
+ET
+
+BT
+/F1 12 Tf
+50 610 Td
+(EXAMINATION) Tj
+ET
+
+BT
+/F2 10 Tf
+50 590 Td
+(Complete Abdominal Ultrasound) Tj
+ET
+
+BT
+/F1 12 Tf
+50 560 Td
+(CLINICAL INDICATION) Tj
+ET
+
+BT
+/F2 10 Tf
+50 540 Td
+(Elevated liver enzymes, right upper quadrant discomfort. Rule out gallstones, hepatic) Tj
+0 -15 Td
+(pathology.) Tj
+ET
+
+BT
+/F1 12 Tf
+50 500 Td
+(TECHNIQUE) Tj
+ET
+
+BT
+/F2 10 Tf
+50 480 Td
+(Real-time grayscale and color Doppler sonographic evaluation of the abdomen was performed) Tj
+0 -15 Td
+(using a curved array transducer.) Tj
+ET
+
+BT
+/F1 12 Tf
+50 440 Td
+(FINDINGS) Tj
+ET
+
+BT
+/F2 10 Tf
+50 420 Td
+(Liver: The liver is normal in size with smooth contours. The parenchyma demonstrates) Tj
+0 -15 Td
+(mildly increased echogenicity consistent with mild fatty infiltration. No focal lesions or) Tj
+0 -15 Td
+(masses are identified.) Tj
+0 -25 Td
+(Gallbladder: The gallbladder is normal in size and appearance with a thin wall. No) Tj
+0 -15 Td
+(gallstones or sludge is seen. No pericholecystic fluid.) Tj
+0 -25 Td
+(Bile Ducts: The common bile duct measures 4mm in diameter, which is within normal limits.) Tj
+0 -15 Td
+(No intrahepatic biliary dilatation.) Tj
+0 -25 Td
+(Pancreas: The visualized portions of the pancreas appear normal. No pancreatic mass or) Tj
+0 -15 Td
+(ductal dilatation is identified.) Tj
+0 -25 Td
+(Spleen: The spleen is normal in size $$11cm in length$$ with homogeneous echotexture.) Tj
+0 -25 Td
+(Kidneys: Both kidneys are normal in size, shape, and position. No hydronephrosis, stones,) Tj
+0 -15 Td
+(or masses are identified.) Tj
+0 -25 Td
+(Aorta and IVC: Normal in caliber without aneurysm.) Tj
+ET
+
+BT
+/F1 12 Tf
+50 180 Td
+(IMPRESSION) Tj
+ET
+
+BT
+/F2 10 Tf
+50 160 Td
+(1. Mild hepatic steatosis $$fatty liver$$, which may explain the mildly elevated liver enzymes.) Tj
+0 -15 Td
+(2. No evidence of cholelithiasis or biliary obstruction.) Tj
+0 -15 Td
+(3. Otherwise normal abdominal ultrasound.) Tj
+ET
+
+BT
+/F1 12 Tf
+50 100 Td
+(RECOMMENDATIONS) Tj
+ET
+
+BT
+/F2 10 Tf
+50 80 Td
+(1. Clinical correlation with the patient's symptoms and laboratory findings.) Tj
+0 -15 Td
+(2. Lifestyle modifications including weight loss, reduced alcohol consumption, and dietary) Tj
+0 -15 Td
+(   changes may help improve hepatic steatosis.) Tj
+0 -15 Td
+(3. Follow-up ultrasound in 6-12 months if clinically indicated.) Tj
+ET
+
+BT
+/F3 10 Tf
+50 20 Td
+(This report is confidential and intended only for the ordering physician.) Tj
+ET
+endstream
+endobj
+xref
+0 9
+0000000000 65535 f
+0000000009 00000 n
+0000000056 00000 n
+0000000111 00000 n
+0000000212 00000 n
+0000000267 00000 n
+0000000335 00000 n
+0000000401 00000 n
+0000000467 00000 n
+trailer
+<</Size 9/Root 1 0 R>>
+startxref
+1953
+%%EOF

@@ -13,7 +13,7 @@ export default function Home() {
   const isInView = useInView(ref, { once: true })
   const testimonials = [
     {
-      text: `"MediRecord helped me stay on top of my medical records and appointments easily."`,
+      text: `"MediRecord helped me stay on top of my medical records easily."`,
       author: "— Sarah A., Patient",
     },
     {
@@ -259,7 +259,7 @@ Personalized Dashboard Access */}
               <ul className="list-disc list-inside text-gray-800 space-y-2 text-left">
                 <li>Visual overview of your medical history</li>
                 <li>Quick access to documents, prescriptions, and certificates</li>
-                <li>Real-time updates on appointments and results</li>
+                <li>Real-time updates on results</li>
                 <li>Custom features based on your user role (patient, doctor, clinician)</li>
               </ul>
             </div>

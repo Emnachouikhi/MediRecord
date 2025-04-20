@@ -1,0 +1,204 @@
+%PDF-1.4
+1 0 obj
+<</Type /Catalog /Pages 2 0 R>>
+endobj
+2 0 obj
+<</Type /Pages /Kids [3 0 R] /Count 1>>
+endobj
+3 0 obj
+<</Type /Page /Parent 2 0 R /Resources 4 0 R /MediaBox [0 0 612 792] /Contents 6 0 R>>
+endobj
+4 0 obj
+<</Font <</F1 5 0 R /F2 7 0 R /F3 8 0 R>>>>
+endobj
+5 0 obj
+<</Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold>>
+endobj
+7 0 obj
+<</Type /Font /Subtype /Type1 /BaseFont /Helvetica>>
+endobj
+8 0 obj
+<</Type /Font /Subtype /Type1 /BaseFont /Helvetica-Oblique>>
+endobj
+6 0 obj
+<</Length 1500>>
+stream
+BT
+/F1 18 Tf
+50 750 Td
+(PRESCRIPTION) Tj
+ET
+
+BT
+/F1 12 Tf
+50 720 Td
+(PATIENT INFORMATION) Tj
+ET
+
+BT
+/F2 10 Tf
+50 700 Td
+(Name: John Doe) Tj
+0 -15 Td
+(Date of Birth: 05/15/1980) Tj
+0 -15 Td
+(Patient ID: P-1001) Tj
+0 -15 Td
+(Gender: Male) Tj
+0 -15 Td
+(Address: 123 Main Street, Anytown, CA 12345) Tj
+ET
+
+BT
+/F  Tj
+0 -15 Td
+(Gender: Male) Tj
+0 -15 Td
+(Address: 123 Main Street, Anytown, CA 12345) Tj
+ET
+
+BT
+/F1 12 Tf
+50 610 Td
+(PRESCRIPTION DETAILS) Tj
+ET
+
+BT
+/F2 10 Tf
+50 590 Td
+(Prescription ID: PRESC-006) Tj
+0 -15 Td
+(Date Issued: October 5, 2022) Tj
+0 -15 Td
+(Valid Until: January 5, 2023) Tj
+ET
+
+BT
+/F1 12 Tf
+50 530 Td
+(MEDICATION) Tj
+ET
+
+BT
+/F2 10 Tf
+50 510 Td
+(Name: Ibuprofen) Tj
+0 -15 Td
+(Strength: 600mg) Tj
+0 -15 Td
+(Form: Tablet) Tj
+0 -15 Td
+(Quantity: 60 tablets) Tj
+ET
+
+BT
+/F1 12 Tf
+50 440 Td
+(DOSAGE & ADMINISTRATION) Tj
+ET
+
+BT
+/F2 10 Tf
+50 420 Td
+(Take one tablet by mouth every 6 hours as needed for pain.) Tj
+0 -15 Td
+(Take with food to reduce stomach upset.) Tj
+ET
+
+BT
+/F1 12 Tf
+50 370 Td
+(ADDITIONAL INSTRUCTIONS) Tj
+ET
+
+BT
+/F2 10 Tf
+50 350 Td
+(This medication is used to relieve pain and reduce inflammation.) Tj
+0 -25 Td
+(Do not exceed 4 tablets in 24 hours.) Tj
+0 -25 Td
+(Do not take for more than 10 days for pain unless directed by your doctor.) Tj
+0 -25 Td
+(May cause stomach upset, heartburn, or dizziness. Contact your doctor if you experience) Tj
+0 -15 Td
+(black/tarry stools, persistent stomach pain, or vomiting blood.) Tj
+0 -25 Td
+(Avoid alcohol while taking this medication as it may increase the risk of stomach bleeding.) Tj
+ET
+
+BT
+/F1 12 Tf
+50 220 Td
+(REFILLS) Tj
+ET
+
+BT
+/F2 10 Tf
+50 200 Td
+(Refills: 2) Tj
+ET
+
+BT
+/F1 12 Tf
+50 170 Td
+(PRESCRIBER INFORMATION) Tj
+ET
+
+BT
+/F2 10 Tf
+50 150 Td
+(Name: Dr. Emily Rodriguez) Tj
+0 -15 Td
+(Specialty: Family Medicine) Tj
+0 -15 Td
+(License Number: MD54321) Tj
+0 -15 Td
+(Address: 456 Medical Center Blvd, Anytown, CA 12345) Tj
+0 -15 Td
+(Phone: (555) 456-7890) Tj
+ET
+
+BT
+/F1 12 Tf
+350 100 Td
+(SIGNATURE) Tj
+ET
+
+BT
+/F2 10 Tf
+350 80 Td
+(Dr. Emily Rodriguez, MD) Tj
+ET
+
+BT
+/F3 10 Tf
+50 50 Td
+(This prescription is electronically generated and is valid without a physical signature.) Tj
+0 -15 Td
+(Please verify the authenticity of this prescription with the issuing healthcare provider if needed.) Tj
+ET
+
+BT
+/F3 8 Tf
+50 20 Td
+(MediRecord Electronic Prescription System - PRESC-006) Tj
+ET
+endstream
+endobj
+xref
+0 9
+0000000000 65535 f
+0000000009 00000 n
+0000000056 00000 n
+0000000111 00000 n
+0000000212 00000 n
+0000000267 00000 n
+0000000335 00000 n
+0000000401 00000 n
+0000000467 00000 n
+trailer
+<</Size 9/Root 1 0 R>>
+startxref
+1953
+%%EOF

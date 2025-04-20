@@ -1,0 +1,188 @@
+%PDF-1.4
+1 0 obj
+<</Type /Catalog /Pages 2 0 R>>
+endobj
+2 0 obj
+<</Type /Pages /Kids [3 0 R] /Count 1>>
+endobj
+3 0 obj
+<</Type /Page /Parent 2 0 R /Resources 4 0 R /MediaBox [0 0 612 792] /Contents 6 0 R>>
+endobj
+4 0 obj
+<</Font <</F1 5 0 R /F2 7 0 R /F3 8 0 R>>>>
+endobj
+5 0 obj
+<</Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold>>
+endobj
+7 0 obj
+<</Type /Font /Subtype /Type1 /BaseFont /Helvetica>>
+endobj
+8 0 obj
+<</Type /Font /Subtype /Type1 /BaseFont /Helvetica-Oblique>>
+endobj
+6 0 obj
+<</Length 1600>>
+stream
+BT
+/F1 18 Tf
+50 750 Td
+(CARDIOLOGY CONSULTATION REPORT) Tj
+ET
+
+BT
+/F1 12 Tf
+50 720 Td
+(PATIENT INFORMATION) Tj
+ET
+
+BT
+/F2 10 Tf
+50 700 Td
+(Name: John Doe) Tj
+0 -15 Td
+(Date of Birth: 05/15/1980) Tj
+0 -15 Td
+(Patient ID: P-1001) Tj
+0 -15 Td
+(Date of Consultation: March 25, 2023) Tj
+0 -15 Td
+(Referring Physician: Dr. Sarah Johnson) Tj
+0 -15 Td
+(Cardiologist: Dr. Emily Rodriguez, MD, FACC) Tj
+ET
+
+BT
+/F1 12 Tf
+50 610 Td
+(REASON FOR CONSULTATION) Tj
+ET
+
+BT
+/F2 10 Tf
+50 590 Td
+(Patient referred for evaluation of hypertension and occasional chest discomfort on exertion.) Tj
+0 -15 Td
+(Patient reports mild chest pressure during physical activity that resolves with rest. No radiation) Tj
+0 -15 Td
+(of pain, no associated shortness of breath, diaphoresis, or nausea.) Tj
+ET
+
+BT
+/F1 12 Tf
+50 530 Td
+(PAST MEDICAL HISTORY) Tj
+ET
+
+BT
+/F2 10 Tf
+50 510 Td
+(1. Hypertension - diagnosed 5 years ago) Tj
+0 -15 Td
+(2. Type 2 Diabetes Mellitus - diagnosed 3 years ago) Tj
+0 -15 Td
+(3. Hyperlipidemia) Tj
+ET
+
+BT
+/F1 12 Tf
+50 450 Td
+(MEDICATIONS) Tj
+ET
+
+BT
+/F2 10 Tf
+50 430 Td
+(1. Lisinopril 10mg daily) Tj
+0 -15 Td
+(2. Metformin 500mg twice daily) Tj
+0 -15 Td
+(3. Atorvastatin 20mg at bedtime) Tj
+0 -15 Td
+(4. Aspirin 81mg daily) Tj
+ET
+
+BT
+/F1 12 Tf
+50 360 Td
+(PHYSICAL EXAMINATION) Tj
+ET
+
+BT
+/F2 10 Tf
+50 340 Td
+(Vital Signs: BP 138/88 mmHg, HR 76 bpm, RR 16/min, Temp 98.6°F, O2 Sat 98% on RA) Tj
+0 -15 Td
+(Cardiovascular: Regular rate and rhythm. S1, S2 normal. No S3 or S4. No murmurs, rubs, or gallops.) Tj
+0 -15 Td
+(Pulmonary: Clear to auscultation bilaterally. No wheezes, rales, or rhonchi.) Tj
+0 -15 Td
+(Extremities: No edema, cyanosis, or clubbing. Peripheral pulses 2+ throughout.) Tj
+ET
+
+BT
+/F1 12 Tf
+50 270 Td
+(DIAGNOSTIC STUDIES) Tj
+ET
+
+BT
+/F2 10 Tf
+50 250 Td
+(ECG: Normal sinus rhythm. No ST-T wave changes. No evidence of ischemia or prior infarction.) Tj
+0 -15 Td
+(Echocardiogram: LVEF 55%. No wall motion abnormalities. Mild LVH. Normal valvular function.) Tj
+0 -15 Td
+(Stress Test: Scheduled for April 5, 2023) Tj
+ET
+
+BT
+/F1 12 Tf
+50 190 Td
+(ASSESSMENT AND PLAN) Tj
+ET
+
+BT
+/F2 10 Tf
+50 170 Td
+(1. Hypertension - Suboptimally controlled. Increase Lisinopril to 20mg daily.) Tj
+0 -15 Td
+(2. Chest discomfort - Atypical features, but given risk factors, will proceed with stress test) Tj
+0 -15 Td
+(   to evaluate for possible coronary artery disease.) Tj
+0 -15 Td
+(3. Hyperlipidemia - Continue current statin therapy. Target LDL <100 mg/dL.) Tj
+0 -15 Td
+(4. Diabetes - Well-controlled. Continue current management.) Tj
+ET
+
+BT
+/F3 10 Tf
+50 90 Td
+(This document is part of the patient's medical record and is confidential.) Tj
+ET
+
+BT
+/F2 10 Tf
+50 60 Td
+(Electronically signed by: Dr. Emily Rodriguez, MD, FACC) Tj
+0 -15 Td
+(Date: March 25, 2023) Tj
+ET
+endstream
+endobj
+xref
+0 9
+0000000000 65535 f
+0000000009 00000 n
+0000000056 00000 n
+0000000111 00000 n
+0000000212 00000 n
+0000000267 00000 n
+0000000401 00000 n
+0000000335 00000 n
+0000000401 00000 n
+trailer
+<</Size 9/Root 1 0 R>>
+startxref
+2053
+%%EOF

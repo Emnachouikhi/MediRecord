@@ -1,0 +1,180 @@
+%PDF-1.4
+1 0 obj
+<</Type /Catalog /Pages 2 0 R>>
+endobj
+2 0 obj
+<</Type /Pages /Kids [3 0 R] /Count 1>>
+endobj
+3 0 obj
+<</Type /Page /Parent 2 0 R /Resources 4 0 R /MediaBox [0 0 612 792] /Contents 6 0 R>>
+endobj
+4 0 obj
+<</Font <</F1 5 0 R /F2 7 0 R /F3 8 0 R>>>>
+endobj
+5 0 obj
+<</Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold>>
+endobj
+7 0 obj
+<</Type /Font /Subtype /Type1 /BaseFont /Helvetica>>
+endobj
+8 0 obj
+<</Type /Font /Subtype /Type1 /BaseFont /Helvetica-Oblique>>
+endobj
+6 0 obj
+<</Length 1400>>
+stream
+BT
+/F1 18 Tf
+50 750 Td
+(RADIOLOGY REPORT: CHEST X-RAY) Tj
+ET
+
+BT
+/F1 12 Tf
+50 720 Td
+(PATIENT INFORMATION) Tj
+ET
+
+BT
+/F2 10 Tf
+50 700 Td
+(Name: John Doe) Tj
+0 -15 Td
+(Date of Birth: 05/15/1980) Tj
+0 -15 Td
+(Patient ID: P-1001) Tj
+0 -15 Td
+(Exam Date: March 15, 2023) Tj
+0 -15 Td
+(Report Date: March 16, 2023) Tj
+0 -15 Td
+(Ordering Physician: Dr. Sarah Johnson) Tj
+ET
+
+BT
+/F1 12 Tf
+50 610 Td
+(EXAMINATION) Tj
+ET
+
+BT
+/F2 10 Tf
+50 590 Td
+(Chest X-ray, PA and Lateral Views) Tj
+ET
+
+BT
+/F1 12 Tf
+50 560 Td
+(CLINICAL INDICATION) Tj
+ET
+
+BT
+/F2 10 Tf
+50 540 Td
+(Hypertension, occasional chest discomfort on exertion. Rule out cardiomegaly and pulmonary) Tj
+0 -15 Td
+(pathology.) Tj
+ET
+
+BT
+/F1 12 Tf
+50 500 Td
+(TECHNIQUE) Tj
+ET
+
+BT
+/F2 10 Tf
+50 480 Td
+(Standard PA and lateral chest radiographs were obtained with the patient in an upright position.) Tj
+ET
+
+BT
+/F1 12 Tf
+50 450 Td
+(FINDINGS) Tj
+ET
+
+BT
+/F2 10 Tf
+50 430 Td
+(Lungs: The lungs are clear bilaterally. No focal consolidation, pneumothorax, or pleural effusion.) Tj
+0 -15 Td
+(No pulmonary edema.) Tj
+0 -25 Td
+(Cardiac: The cardiac silhouette is mildly enlarged with a cardiothoracic ratio of approximately 0.52.) Tj
+0 -15 Td
+(This is borderline cardiomegaly.) Tj
+0 -25 Td
+(Mediastinum: The mediastinum is unremarkable. The aortic contour is normal.) Tj
+0 -25 Td
+(Osseous structures: No acute fractures or dislocations. Mild degenerative changes in the thoracic) Tj
+0 -15 Td
+(spine.) Tj
+0 -25 Td
+(Soft tissues: Unremarkable.) Tj
+ET
+
+BT
+/F1 12 Tf
+50 270 Td
+(IMPRESSION) Tj
+ET
+
+BT
+/F2 10 Tf
+50 250 Td
+(1. Borderline cardiomegaly, which may be related to the patient's history of hypertension.) Tj
+0 -15 Td
+(2. No acute cardiopulmonary disease.) Tj
+0 -15 Td
+(3. Mild degenerative changes in the thoracic spine, likely age-appropriate.) Tj
+ET
+
+BT
+/F1 12 Tf
+50 190 Td
+(RECOMMENDATIONS) Tj
+ET
+
+BT
+/F2 10 Tf
+50 170 Td
+(1. Clinical correlation with the patient's hypertension management is advised.) Tj
+0 -15 Td
+(2. Consider echocardiogram for further evaluation of cardiac size and function if clinically) Tj
+0 -15 Td
+(   indicated.) Tj
+ET
+
+BT
+/F3 10 Tf
+50 120 Td
+(This report is confidential and intended only for the ordering physician.) Tj
+ET
+
+BT
+/F2 10 Tf
+50 80 Td
+(Radiologist: Dr. Robert Thompson, MD) Tj
+0 -15 Td
+(Electronically signed: March 16, 2023) Tj
+ET
+endstream
+endobj
+xref
+0 9
+0000000000 65535 f
+0000000009 00000 n
+0000000056 00000 n
+0000000111 00000 n
+0000000212 00000 n
+0000000267 00000 n
+0000000335 00000 n
+0000000401 00000 n
+0000000469 00000 n
+trailer
+<</Size 9/Root 1 0 R>>
+startxref
+1853
+%%EOF

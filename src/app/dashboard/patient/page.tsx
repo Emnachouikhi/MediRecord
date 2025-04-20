@@ -5,6 +5,7 @@ import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs"
 import { FileText, Download, Calendar, Activity, Pill, Stethoscope, CalendarCheck } from "lucide-react"
 import Link from "next/link"
 import { AnimatedCounter } from "./animate_counte"
+import ExportButton from "@/components/patient-data-export/export-button"
 
 export default function PatientDashboard() {
   return (
@@ -17,10 +18,13 @@ export default function PatientDashboard() {
             <div className="flex-1">
               <h1 className="text-3xl font-bold text-blue-900">Welcome back, John </h1>
               <p className="text-blue-800 text-sm mt-2">Here's an overview of your medical records.</p>
-              <Button className="mt-4 bg-white text-blue-700 border border-blue-700 hover:bg-blue-100 transition rounded-full">
-                <Download className="mr-2 h-4 w-4" />
-                Download Medical Records
-              </Button>
+              <div className="mt-4 flex flex-col sm:flex-row gap-3">
+                <ExportButton
+                  patientId="P-1001"
+                  variant="outline"
+                  className="bg-white text-blue-700 border border-blue-700 hover:bg-blue-100 transition rounded-full"
+                />
+              </div>
             </div>
 
             {/* Right section: Illustration */}
@@ -35,17 +39,8 @@ export default function PatientDashboard() {
         </div>
 
         {/* Cards */}
-        <div className="grid gap-6 md:grid-cols-2 lg:grid-cols-4">
-          <Card className="rounded-xl shadow-sm hover:shadow-md transition duration-300">
-            <CardHeader className="flex flex-row items-center justify-between space-y-0 pb-2">
-              <CardTitle className="text-base font-semibold text-blue-900">Upcoming Appointments</CardTitle>
-              <Calendar className="h-5 w-5 text-blue-600" />
-            </CardHeader>
-            <CardContent>
-              <AnimatedCounter value={2} colorClass="text-blue-800" />
-              <p className="text-sm text-blue-700 mt-1">Next: April 18, 2023</p>
-            </CardContent>
-          </Card>
+        <div className="grid gap-6 md:grid-cols-2 lg:grid-cols-3">
+        
 
           <Card className="rounded-xl shadow-sm hover:shadow-md transition duration-300">
             <CardHeader className="flex flex-row items-center justify-between space-y-0 pb-2">
@@ -97,13 +92,7 @@ export default function PatientDashboard() {
               <Stethoscope className="h-4 w-4" />
               Prescriptions
             </TabsTrigger>
-            <TabsTrigger
-              value="appointments"
-              className="w-full flex items-center justify-center gap-2 rounded-lg py-2 font-medium transition-all data-[state=active]:bg-blue-700 data-[state=active]:text-white"
-            >
-              <CalendarCheck className="h-4 w-4" />
-              Appointments
-            </TabsTrigger>
+            
           </TabsList>
 
           {/* Medical Records */}
@@ -124,10 +113,7 @@ export default function PatientDashboard() {
                       </div>
                       <p className="text-sm text-muted-foreground">Dr. Sarah Johnson</p>
                     </div>
-                    <Button variant="outline" size="sm" className="flex items-center gap-2">
-                      <Download className="h-4 w-4" />
-                      Download
-                    </Button>
+                    
                   </div>
                 ))}
                 <div className="text-center pt-2">
@@ -156,10 +142,7 @@ export default function PatientDashboard() {
                         <span>Valid until: May {i + 14}, 2023</span>
                       </div>
                     </div>
-                    <Button variant="outline" size="sm" className="flex items-center gap-2">
-                      <Download className="h-4 w-4" />
-                      Download
-                    </Button>
+                  
                   </div>
                 ))}
                 <div className="text-center pt-2">
@@ -171,36 +154,7 @@ export default function PatientDashboard() {
             </Card>
           </TabsContent>
 
-          {/* Appointments */}
-          <TabsContent value="appointments">
-            <Card className="shadow-md rounded-xl">
-              <CardHeader className="bg-blue-50   px-6 py-4">        <CardTitle className="text-xl font-semibold">Upcoming Appointments</CardTitle>
-                <CardDescription>Your scheduled medical appointments</CardDescription>
-              </CardHeader>
-              <CardContent className="space-y-6 px-6 py-4">
-                {[1, 2].map((i) => (
-                  <div key={i} className="flex items-center justify-between border-b pb-4 last:border-none">
-                    <div className="space-y-1">
-                      <p className="font-semibold text-base">Dr. Michael Chen</p>
-                      <p className="text-sm text-muted-foreground">Cardiology Consultation</p>
-                      <div className="flex items-center text-sm text-muted-foreground">
-                        <Calendar className="mr-2 h-4 w-4" />
-                        <span>April {i + 17}, 2023 - 10:0{i} AM</span>
-                      </div>
-                    </div>
-                    <Button variant="outline" size="sm">
-                      Reschedule
-                    </Button>
-                  </div>
-                ))}
-                <div className="text-center pt-2">
-                  <Link href="/dashboard/patient/appointments">
-                    <Button variant="link" className="text-primary font-medium">View All Appointments</Button>
-                  </Link>
-                </div>
-              </CardContent>
-            </Card>
-          </TabsContent>
+         
         </Tabs>
 
       </div>
